@@ -1,3 +1,4 @@
-*.Python linguist-detectable=true
-*.TeX linguist-detectable=false
+*.py linguist-detectable=true
+*.tex linguist-detectable=false
+*.pdf linguist-detectable=false
 *.gitattributes linguist-language=gitattributes
