@@ -1,2 +1,2 @@
-*.python linguist-detectable=true
-*.tex linguist-detectable=false
+*.Python linguist-detectable=true
+*.TeX linguist-detectable=false
